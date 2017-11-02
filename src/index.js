@@ -11,10 +11,10 @@ import {
   ScrollView,
   Dimensions,
   TouchableOpacity,
-  ViewPagerAndroid,
   Platform,
   ActivityIndicator
 } from 'react-native'
+import {ViewPagerZoom} from 'react-native-image-zoom'
 
 /**
  * Default styles
